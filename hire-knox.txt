@@ -1,0 +1,1 @@
+knox switch-a 1
